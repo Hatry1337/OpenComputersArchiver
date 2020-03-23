@@ -1,4 +1,4 @@
-local archive = require("lib/archive")
+local archive = require("archive")
 local shell = require("shell")
 local fs = require("filesystem")
 
